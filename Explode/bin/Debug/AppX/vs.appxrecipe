@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DEVENDRA</Machine>
+    <WindowsUser>dileep</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>4A4F56B17986B5B734C59FE980AC0CAB4D1EF7D7A406733455C2CB49187C4710</RegisteredManifestChecksum>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\code.fun.do\Explode\Explode\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-27T03:26:35.951</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\code.fun.do\Explode\Explode\bin\Debug\Explode.exe">
+      <PackagePath>Explode.exe</PackagePath>
+      <Modified>2013-11-25T11:59:53.859</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\Explode\Explode\bin\Debug\Explode.pdb">
+      <PackagePath>Explode.pdb</PackagePath>
+      <Modified>2013-11-25T11:59:53.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\Explode\Explode\Assets\Background.png">
+      <PackagePath>Assets\Background.png</PackagePath>
+      <Modified>2013-10-26T18:26:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\Explode\Explode\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\Explode\Explode\Assets\oneballred.png">
+      <PackagePath>Assets\oneballred.png</PackagePath>
+      <Modified>2013-10-26T23:49:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\Explode\Explode\Assets\oneballyellow.png">
+      <PackagePath>Assets\oneballyellow.png</PackagePath>
+      <Modified>2013-10-26T23:49:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\Explode\Explode\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\Explode\Explode\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\Explode\Explode\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\Explode\Explode\Assets\threeballred.png">
+      <PackagePath>Assets\threeballred.png</PackagePath>
+      <Modified>2013-10-26T23:49:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\Explode\Explode\Assets\threeballyellow.png">
+      <PackagePath>Assets\threeballyellow.png</PackagePath>
+      <Modified>2013-10-26T23:49:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\Explode\Explode\Assets\twoballred.png">
+      <PackagePath>Assets\twoballred.png</PackagePath>
+      <Modified>2013-10-26T23:49:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\Explode\Explode\Assets\twoballyellow.png">
+      <PackagePath>Assets\twoballyellow.png</PackagePath>
+      <Modified>2013-10-26T23:49:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\Explode\Explode\Assets\backgroundforgame.jpg">
+      <PackagePath>Assets\backgroundforgame.jpg</PackagePath>
+      <Modified>2013-10-26T23:55:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\Explode\Explode\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-10-26T18:23:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\Explode\Explode\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T23:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\Explode\Explode\bin\Debug\GamePage.xaml">
+      <PackagePath>GamePage.xaml</PackagePath>
+      <Modified>2013-10-27T03:24:10.135</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\Explode\Explode\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-10-26T18:40:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\code.fun.do\Explode\Explode\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-10-27T03:26:34.508</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
